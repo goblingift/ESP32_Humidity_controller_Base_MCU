@@ -39,3 +39,4 @@
 
 # debug information files
 *.dwo
+ESP32S3_Base_MCU/secrets.h
